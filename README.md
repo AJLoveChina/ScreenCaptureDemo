@@ -4,8 +4,8 @@
 > 一个非常简单的获取桌面视频流的demo
 
 ## 依赖库
-* webrtc-adapter  使用webrtc api墙裂推荐的兼容性垫片库
-* getscreenmedia  非常小，只有90行代码
+* [webrtc-adapter](https://github.com/webrtcHacks/adapter)  使用webrtc api墙裂推荐的兼容性垫片库
+* [getscreenmedia](https://github.com/otalk/getScreenMedia)  非常小，只有90行代码
 
 ## 快速开始
 
