@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "getscreenmedia": "^5.0.2",
+    "getscreenmedia": "^5.1.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "webrtc-adapter": "^6.0.0"
